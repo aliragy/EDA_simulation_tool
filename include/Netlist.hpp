@@ -1,6 +1,6 @@
 #pragma once
-#include "Common.h"
-#include "Parser.h"
+#include "Common.hpp"
+#include "Parser.hpp"
 #include <string>
 #include <vector>
 #include <unordered_map>

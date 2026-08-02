@@ -1,5 +1,5 @@
 #pragma once
-#include "Netlist.h"
+#include "Netlist.hpp"
 #include <queue>
 #include <vector>
 #include <unordered_map>

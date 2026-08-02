@@ -1,6 +1,6 @@
 #pragma once
-#include "SimEngine.h"
-#include "IOController.h"
+#include "SimEngine.hpp"
+#include "IOController.hpp"
 
 class WaveformGUI {
 public:
